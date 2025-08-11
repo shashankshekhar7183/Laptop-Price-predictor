@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Allow these files
+!.gitignore
+!app.py
+!requirements.txt
+!*.pkl
+!*.csv
+!*.ipynb
